@@ -1,0 +1,13 @@
+D:\Personal Archive\Computer Science\C#\EngineSharp\bin\Debug\netcoreapp3.1\EngineSharp.exe
+D:\Personal Archive\Computer Science\C#\EngineSharp\bin\Debug\netcoreapp3.1\EngineSharp.deps.json
+D:\Personal Archive\Computer Science\C#\EngineSharp\bin\Debug\netcoreapp3.1\EngineSharp.runtimeconfig.json
+D:\Personal Archive\Computer Science\C#\EngineSharp\bin\Debug\netcoreapp3.1\EngineSharp.runtimeconfig.dev.json
+D:\Personal Archive\Computer Science\C#\EngineSharp\bin\Debug\netcoreapp3.1\EngineSharp.dll
+D:\Personal Archive\Computer Science\C#\EngineSharp\bin\Debug\netcoreapp3.1\EngineSharp.pdb
+D:\Personal Archive\Computer Science\C#\EngineSharp\obj\Debug\netcoreapp3.1\EngineSharp.csprojAssemblyReference.cache
+D:\Personal Archive\Computer Science\C#\EngineSharp\obj\Debug\netcoreapp3.1\EngineSharp.AssemblyInfoInputs.cache
+D:\Personal Archive\Computer Science\C#\EngineSharp\obj\Debug\netcoreapp3.1\EngineSharp.AssemblyInfo.cs
+D:\Personal Archive\Computer Science\C#\EngineSharp\obj\Debug\netcoreapp3.1\EngineSharp.csproj.CoreCompileInputs.cache
+D:\Personal Archive\Computer Science\C#\EngineSharp\obj\Debug\netcoreapp3.1\EngineSharp.dll
+D:\Personal Archive\Computer Science\C#\EngineSharp\obj\Debug\netcoreapp3.1\EngineSharp.pdb
+D:\Personal Archive\Computer Science\C#\EngineSharp\obj\Debug\netcoreapp3.1\EngineSharp.genruntimeconfig.cache
